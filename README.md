@@ -1,6 +1,6 @@
 # Movies App on React
-# [Kino](https://movies-app-kata-eight.vercel.app/)
-https://movies-app-kata-eight.vercel.app/
+# [Kino](https://kk-stasz2023-stasz2023s-projects.vercel.app//)
+https://kk-stasz2023-stasz2023s-projects.vercel.app/
 
 
 
